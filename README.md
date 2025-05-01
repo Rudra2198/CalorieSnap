@@ -1,4 +1,4 @@
-# calorie_snap
+# Calorie Snap
 
 A new Flutter project.
 
